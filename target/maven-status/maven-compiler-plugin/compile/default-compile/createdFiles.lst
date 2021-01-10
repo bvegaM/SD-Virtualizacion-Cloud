@@ -1,0 +1,7 @@
+vista/GestionPersonaBean.class
+gestion/GestionPersonaLocal.class
+gestion/GestionPersona.class
+util/Resource.class
+modelo/Persona.class
+datos/PersonaDAO.class
+modelo/Persona_.class
